@@ -33,7 +33,7 @@ if ($db->update('produtos_artesanais', $id, $data)) {
                 title: 'Produto editado com sucesso!',
                 confirmButtonText: 'OK'
             }).then(() => {
-                window.location.href = 'home.php';
+                window.location.href = 'list_products.php';
             });
         });
     </script>";
