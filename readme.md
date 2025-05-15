@@ -38,10 +38,15 @@ Feedback do professor, veja <a href="https://github.com/Lucas-Ed/FATEC_DES_WEB2_
 <p> Páginas principais apenas:</p>
 
 ![](/img/index.JPG)
+
 ![](/img/welcome.JPG)
+
 ![](/img/registro.JPG)
+
 ![](/img/listagem.JPG)
+
 ![](/img/edicao.JPG)
+
 ![](/img/remover.JPG)
 
 
