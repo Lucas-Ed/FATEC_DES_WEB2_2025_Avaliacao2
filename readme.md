@@ -9,7 +9,7 @@ Sistema desenvolvido como parte [Avaliativa2](https://github.com/orlandosaraivaj
 <br>
 Professor, <a href="https://github.com/orlandosaraivajr">Orlando Saraiva.</a>
 <br>
-<!-- Feedback do professor, veja <a href="https://github.com/Lucas-Ed/FATEC_DES_WEB2_2025_Avaliacao1/issues/1">aqui.</a> -->
+Feedback do professor, veja <a href="https://github.com/Lucas-Ed/FATEC_DES_WEB2_2025_Avaliacao2/issues/1">aqui.</a>
 
 <h3 align="center">✅ Concluído ✅</h3>
 
@@ -61,7 +61,7 @@ Professor, <a href="https://github.com/orlandosaraivajr">Orlando Saraiva.</a>
 │     |── 📄 list_products.php        (Página de produtos listados)
 │     └─  📄 login.php                (Script com a lógica de login)
 │     
-|──└─📂/ img                     (Pasta de imagens do Readme.md)
+|── 📂/ img                     (Pasta de imagens do Readme.md)
 |
 │── 📄 loja.sql                 (Arquivo de backup do banco de dados)    
 └── 📄 readme.md                (Arquivo de documentação do projeto)
